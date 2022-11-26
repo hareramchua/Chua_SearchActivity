@@ -47,7 +47,7 @@ namespace Chua_SearchActivity
                         graphics.FillRectangle((Brush)new SolidBrush(Color.Black), index2 * this.m_iSize + 1, index1 * this.m_iSize + 1, this.m_iSize - 1, this.m_iSize - 1);
                 }
             }
-            graphics.FillEllipse((Brush)new SolidBrush(Color.White), this.iSelectedX * this.m_iSize + 5, this.iSelectedY * this.m_iSize + 5, this.m_iSize - 10, this.m_iSize - 10);
+            graphics.FillEllipse((Brush)new SolidBrush(Color.Black), this.iSelectedX * this.m_iSize + 5, this.iSelectedY * this.m_iSize + 5, this.m_iSize - 10, this.m_iSize - 10);
         }
 
         private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
