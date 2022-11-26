@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\bin\Debug\Chua_SearchActivity.exe.config
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\bin\Debug\Chua_SearchActivity.exe
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\bin\Debug\Chua_SearchActivity.pdb
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\obj\Debug\Chua_SearchActivity.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\obj\Debug\Chua_SearchActivity.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\obj\Debug\Chua_SearchActivity.Properties.Resources.resources
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\obj\Debug\Chua_SearchActivity.csproj.GenerateResource.cache
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\obj\Debug\Chua_SearchActivity.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\obj\Debug\Chua_SearchActivity.exe
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\obj\Debug\Chua_SearchActivity.pdb
+C:\Users\USER\Documents\CS345\Chua_SearchActivity\obj\Debug\Chua_SearchActivity.MainForm.resources
